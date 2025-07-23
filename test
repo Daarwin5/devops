@@ -1,5 +1,5 @@
 
-echo "Learning Devops by $USER"
+echo "Daarwin Learning Devops"
 
 echo -n "Enter the number: "
 read num
